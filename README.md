@@ -47,9 +47,10 @@ Console do firebase:
  # Tecnologias Utilizadas
  <ul>
  <li> <code> React.js </code> </li>
-
+ <li> <code> javascript </code> </li>
  <li> <code> Git </code> </li>
- 
+ <li> <code> Firebase </code> </li>
+
  </ul>
  
  # Desenvolvedores do Projeto
